@@ -20,6 +20,13 @@
       "maxPrice": 30000,
       "status": "viral",
       "soldOut": true
+    },
+    {
+      "name": "tes",
+      "minPrice": 10000,
+      "maxPrice": null,
+      "status": "normal",
+      "soldOut": false
     }
   ],
   "activeGroups": [],
