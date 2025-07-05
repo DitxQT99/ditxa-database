@@ -20,6 +20,13 @@
       "maxPrice": 30000,
       "status": "viral",
       "soldOut": true
+    },
+    {
+      "name": "indiajone",
+      "minPrice": 20000,
+      "maxPrice": 28000,
+      "status": "normal",
+      "soldOut": false
     }
   ],
   "activeGroups": [],
