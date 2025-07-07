@@ -108,13 +108,11 @@
   ],
   "activeGroups": [],
   "websiteStatus": "maintenance",
-  "blockedNumbers": [
-    "6285763338146"
-  ],
+  "blockedNumbers": [],
   "numberProviders": {
     "Indonesia": {
       "blockRate": 0.35,
-      "lastChecked": "2025-07-07T14:49:39.522Z"
+      "lastChecked": "2025-07-07T14:50:32.505Z"
     },
     "Malaysia": {
       "blockRate": 0.25,
