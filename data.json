@@ -109,62 +109,7 @@
   "activeGroups": [],
   "websiteStatus": "maintenance",
   "blockedNumbers": [],
-  "numberProviders": {
-    "Indonesia": {
-      "blockRate": 0.35,
-      "lastChecked": "2025-07-07T14:50:32.505Z"
-    },
-    "Malaysia": {
-      "blockRate": 0.25,
-      "lastChecked": null
-    },
-    "Rusia": {
-      "blockRate": 0.4,
-      "lastChecked": null
-    },
-    "China": {
-      "blockRate": 0.3,
-      "lastChecked": null
-    },
-    "Singapura": {
-      "blockRate": 0.15,
-      "lastChecked": null
-    },
-    "Thailand": {
-      "blockRate": 0.2,
-      "lastChecked": null
-    },
-    "Vietnam": {
-      "blockRate": 0.28,
-      "lastChecked": null
-    },
-    "India": {
-      "blockRate": 0.45,
-      "lastChecked": null
-    },
-    "Jepang": {
-      "blockRate": 0.18,
-      "lastChecked": null
-    },
-    "Korea": {
-      "blockRate": 0.22,
-      "lastChecked": null
-    },
-    "Brazil": {
-      "blockRate": 0.33,
-      "lastChecked": null
-    },
-    "Amerika": {
-      "blockRate": 0.12,
-      "lastChecked": null
-    },
-    "Inggris": {
-      "blockRate": 0.1,
-      "lastChecked": null
-    },
-    "Jerman": {
-      "blockRate": 0.15,
-      "lastChecked": null
-    }
-  }
+  "premiumUsers": [],
+  "autoShareEnabled": true,
+  "autoShareMessage": "tes"
 }
